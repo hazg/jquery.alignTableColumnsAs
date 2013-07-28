@@ -1,6 +1,7 @@
 /*! jquery.alignTableColumnsAs - v0.1
-* http://github.com/hazg/jquery.alignTableColumnsAs
-* Copyright (c) 2013 Greg Franko; Licensed MIT*/
+*   http://github.com/hazg/jquery.alignTableColumnsAs
+*   Copyright (c) 2013 Aleksandr Aleksandrov; Licensed MIT
+*/
 
 
 jQuery(function(){
